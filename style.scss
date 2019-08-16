@@ -1,0 +1,44 @@
+body {
+  background-color: #ffffff;
+}
+.scrollView {
+  background-color: #E51C23;
+}
+.header {
+  background-color: #E51C23;
+  padding: 15px;
+}
+.appTitle {
+  text-align: center;
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: bold;
+}
+.mainBlock {
+  padding: 10px;
+  border-radius: 10px;
+  background-color:#eeeeee;
+  min-height: 1000px;
+}
+.pokemon {
+  margin: 3px;
+  padding:10px;
+  border-radius:7px;
+  background-color:#ffffff;
+  font-weight:600;
+  font-size:18px;
+  text-align: center;
+  .pokemon-number {
+    color: #bbbbbb;
+  }
+  .pokemon-name {
+    align-self: center;
+    color: #555555;	
+  }
+  .pokemon-types {
+  }
+  .pokemon-thumbnail {
+    width: 60px;
+    height: 60px;
+  }
+}
